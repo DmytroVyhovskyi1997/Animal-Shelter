@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Animal-Shelter/static/css/main.00a5385f.css",
-    "main.js": "/Animal-Shelter/static/js/main.dfcc9469.js",
+    "main.css": "/Animal-Shelter/static/css/main.02cde118.css",
+    "main.js": "/Animal-Shelter/static/js/main.441b88f0.js",
+    "static/media/dogAbout.png": "/Animal-Shelter/static/media/dogAbout.6b0bf67e3126ddddc788.png",
     "static/media/dog.png": "/Animal-Shelter/static/media/dog.f725f686eb0a5677883a.png",
     "static/media/decor.png": "/Animal-Shelter/static/media/decor.35ed4ee67d569993812f.png",
     "static/media/icon.svg": "/Animal-Shelter/static/media/icon.16d60d9720638b9dfb8b0edf3f0fda00.svg",
+    "static/media/Rectangle.png": "/Animal-Shelter/static/media/Rectangle.328d44847205f9d9a637.png",
     "index.html": "/Animal-Shelter/index.html",
-    "main.00a5385f.css.map": "/Animal-Shelter/static/css/main.00a5385f.css.map",
-    "main.dfcc9469.js.map": "/Animal-Shelter/static/js/main.dfcc9469.js.map"
+    "main.02cde118.css.map": "/Animal-Shelter/static/css/main.02cde118.css.map",
+    "main.441b88f0.js.map": "/Animal-Shelter/static/js/main.441b88f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a5385f.css",
-    "static/js/main.dfcc9469.js"
+    "static/css/main.02cde118.css",
+    "static/js/main.441b88f0.js"
   ]
 }
