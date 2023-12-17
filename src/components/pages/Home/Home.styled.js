@@ -8,6 +8,7 @@ justify-content: space-between;
 
 export const ImgDog = styled.img`
 position:relative;
+margin-right: 100px;
 `
 
 export const ImgDecor = styled.img`

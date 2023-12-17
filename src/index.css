@@ -4,7 +4,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(#4A86FF66, white, #EF395966);
-  background-repeat: no-repeat;
   background-size: cover;
   height: 100vh; 
 }

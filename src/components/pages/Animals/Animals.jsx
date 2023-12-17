@@ -1,6 +1,10 @@
+import AboutUs from "../../AboutUs/AboutUs";
+
 const Animals = ()=> {
 return(
-    <p>Animals</p>
+   <section>
+    <AboutUs/>
+   </section>
 )
 }
 

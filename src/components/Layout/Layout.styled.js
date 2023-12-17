@@ -4,7 +4,7 @@ import styled from 'styled-components'
 export const Link = styled(NavLink)`
 position: relative;
 color:  #202053;
-margin-left:60px;
+margin-left:50px;
 font-weight:400;
 font-size:20px;
 line-height:30px;
@@ -36,9 +36,9 @@ margin: 0 auto;
     padding-right: 32px;
 }
 @media screen and (min-width: 1280px){
-    width: 1280px;
-    padding-left: 16px;
-    padding-right: 16px;
+    width: 1440px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 `;
 
@@ -50,7 +50,7 @@ padding-top:40px;
 padding-bottom:40px;
 `
 export const BoxTitle = styled.div`
-display:flex;
+display: flex;
 margin: 0;
 `
 export const Title = styled.h2`
@@ -80,4 +80,19 @@ border-radius:25px;
 border:none;
 animation: pulse 3s infinite;
 box-shadow: 0px 2px 1px -1px rgba(0,0,0,.2), 0px 1px 1px 0px rgba(0,0,0,.14), 0px 1px 3px 0px rgba(0,0,0,.12);
+`
+
+export const BoxNav = styled.ul`
+display:flex;
+padding: 0;
+
+`
+
+export const TitleLocation = styled.li`
+color:#202053;
+margin-right:20px;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 `

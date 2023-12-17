@@ -18,9 +18,9 @@ const Footer = () => {
     <BoxFooter>
       <div>
         <BoxTitle>
-          <img src={IconShelter} alt="icon header" />
+          <img src={IconShelter} alt="icon header"/>
           <div>
-            <Title>Хатина</Title>
+            <Title>ХАТИНА</Title>
             <Text>притулок для тварин</Text>
           </div>
         </BoxTitle>
