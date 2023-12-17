@@ -9,6 +9,7 @@ import {
   ButtonHelp,
 } from "./Layout.styled";
 import IconShelter from "../../images/icon.svg";
+import Footer from "../Footer/Footer";
 
 const Layout = () => {
   return (
@@ -31,7 +32,7 @@ const Layout = () => {
       <main>
         <Outlet />
       </main>
-      <footer></footer>
+      <Footer/>
     </Container>
   );
 };

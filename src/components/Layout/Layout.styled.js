@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export const Link = styled(NavLink)`
 position: relative;
-color: #202053;
+color:  #202053;
 margin-left:60px;
 font-weight:400;
 font-size:20px;
@@ -53,12 +53,20 @@ export const BoxTitle = styled.div`
 display:flex;
 margin: 0;
 `
-export const Title = styled.h1`
+export const Title = styled.h2`
+font-weight:800;
+font-size:35px;
+line-height:52px;
 margin:0;
+color:  #202053;
 `
 
 export const Text = styled.p`
+font-weight:500;
+font-size:15px;
+line-height:22px;
 margin:0;
+color:  #202053;
 `
 
 export const ButtonHelp = styled.button`

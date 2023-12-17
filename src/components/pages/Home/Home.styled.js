@@ -16,6 +16,7 @@ right: 50px;
 `
 
 export const Title = styled.h2`
+color:#202053;
 font-weight:800;
 font-size:64px;
 line-height:83.2px;
